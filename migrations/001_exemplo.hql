@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS default.exemplo (id INT);
